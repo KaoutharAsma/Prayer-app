@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="15" />
+    <option name="y" value="54" />
+    <option name="width" value="870" />
+    <option name="height" value="960" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="D:/android" />
+    <property name="not.eligible.for.single.variant.sync" value="true" />
+  </component>
+</project>
